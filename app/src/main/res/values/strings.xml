@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DaffodilFestival2016</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Accessibility words for navigation buttons (hamburger icon, back icon) -->
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <!-- Names of Sections (tabs) in ListView -->
+    <string name="section_1">About Us</string>
+    <string name="section_2">Vendors</string>
+    <string name="section_3">Map</string>
+    <string name="section_4">Schedule</string>
+    <string name="section_5">Transportation</string>
+    <string name="section_6">Sponsors</string>
+    <string name="section_7">Contact Us</string>
+    <!-- Names of Variables used in ViewPDF.java -->
+    <string name="pdf_extension">.pdf</string>
+    <string name="map_name">MapofDaffodilFestival2016</string>
+    <string name="map_url">http://illinois.edu/map/map.pdf</string>
+    <string name="googlepdfviewer_url">http://docs.google.com/viewer?url=</string>
+
+</resources>
