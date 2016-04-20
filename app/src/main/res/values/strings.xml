@@ -19,7 +19,7 @@
     <!-- Names of Variables used in ViewPDF.java -->
     <string name="pdf_extension">.pdf</string>
     <string name="map_name">MapofDaffodilFestival2016</string>
-    <string name="map_url">http://illinois.edu/map/map.pdf</string>
+    <string name="map_url">https://projecteulerfun.files.wordpress.com/2016/04/df-site-map-2016.pdf</string>
     <string name="googlepdfviewer_url">http://docs.google.com/viewer?url=</string>
 
 </resources>
