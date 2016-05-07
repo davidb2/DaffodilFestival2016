@@ -93,7 +93,7 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
                 // Change Title of Action Bar
                 getSupportActionBar().setTitle(R.string.section_1);
                 break;
-            // Vendors
+            // Vendors //h
             case 1:
                 MyFragment_2 myFragment_2 = new MyFragment_2();
                 // replace the current fragment holder with the selected fragment
