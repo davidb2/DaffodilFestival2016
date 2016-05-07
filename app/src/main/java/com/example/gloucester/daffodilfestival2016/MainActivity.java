@@ -107,7 +107,18 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
             case 2:
                 // performs a task asynchronously -- view pdf
                 new ViewPDF().execute(this);
-            break;
+                break;
+            case 3:
+                MyFragment_3 myFragment_3 = new MyFragment_3();
+                // replace the current fragment holder with the selected fragment
+                fragmentTransaction.replace(R.id.fragmentholder, myFragment_3);
+                // execute the stored transactions
+                fragmentTransaction.commit();
+                // Change Title of Action Bar
+                getSupportActionBar().setTitle(R.string.section_4);
+                break;
+            default:
+                break;
         }
     }
 

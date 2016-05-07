@@ -21,5 +21,6 @@
     <string name="map_name">MapofDaffodilFestival2016</string>
     <string name="map_url">https://projecteulerfun.files.wordpress.com/2016/04/df-site-map-2016.pdf</string>
     <string name="googlepdfviewer_url">http://docs.google.com/viewer?url=</string>
+    <string name="contact_us_url">http://daffodilfestivalva.org/contact-us/</string>
 
 </resources>
